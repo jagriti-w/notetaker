@@ -1,0 +1,11 @@
+.note-stylin{
+    
+    width: 200px;
+    height: 250px;
+    float: left;
+    margin: 10px;
+    font-size: 25px;
+    font-style: italic;
+    font-weight: bold;
+    text-align: center;
+}
